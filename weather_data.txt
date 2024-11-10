@@ -1,0 +1,8 @@
+City: Surabaya
+
+
+City: banjar
+Cuaca di banjar:
+moderate rain
+Suhu: -243.30°C
+
